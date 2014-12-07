@@ -1,5 +1,3 @@
-#Dockerfile
+# Dockerfile
+使用 Dockerfile 可以允许用户创建自定义的镜像。
 
-TODO
-
-ref: https://github.com/yeasy/docker_practice
